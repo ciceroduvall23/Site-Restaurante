@@ -20,7 +20,7 @@ p
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(bg.jpg);
+  background: url(/img/bg.jpg);
   background-size: cover;
 
 }
@@ -32,7 +32,7 @@ p
 .banner .content h2
 {
   font-size: 5em;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 .banner .content p
 {
@@ -104,6 +104,7 @@ header .navigation li
 {
   list-style: none;
   margin-left: 30px;
+  font-size: 25px;
 }
 header .navigation li a
 {
